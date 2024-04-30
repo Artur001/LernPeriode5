@@ -24,3 +24,8 @@ Heute habe ich meine Website angefangen zu programmieren und es kam toll aus. Es
 
 Heute habe ich mit der Knopf funktion herumgespielt und ein Bild hinzugefügt als Test und es kam genau wie erartet aus. Leider habe ich zu viel Zeit in das Programmieren investiert und habe 30 Minuten weniger bei den Moodle Tests gearbeitet und muss es unbedingt nachholen. Abgesehen von dem, lief heute alles nach Plan.
 
+## 7.5.2024
+
+- [ ] Moodle Tests für morgen fertig machen (30min+60min)
+- [ ] Ein Video hinzufügen und mehrere andere Htmls zusammenfüge + Menüleiste programmieren (90min)
+- [ ] Recherichieren im Internet, wie man Automatisierbare Scripts machen kann (60min)
