@@ -22,6 +22,5 @@ Heute habe ich meine Website angefangen zu programmieren und es kam toll aus. Es
 - [ ] HTML-Wissen erweitern (im Internet) (60min)
 - [ ] Für das Modul 106 fertigarbeiten (60min)
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich mit der Knopf funktion herumgespielt und ein Bild hinzugefügt als Test und es kam genau wie erartet aus. Leider habe ich zu viel Zeit in das Programmieren investiert und habe 30 Minuten weniger bei den Moodle Tests gearbeitet und muss es unbedingt nachholen. Abgesehen von dem, lief heute alles nach Plan.
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
