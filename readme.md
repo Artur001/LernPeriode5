@@ -26,6 +26,8 @@ Heute habe ich mit der Knopf funktion herumgespielt und ein Bild hinzugefügt al
 
 ## 7.5.2024
 
-- [ ] Moodle Tests für morgen fertig machen (30min+60min)
-- [ ] Ein Video hinzufügen und mehrere andere Htmls zusammenfüge + Menüleiste programmieren (90min)
-- [ ] Recherichieren im Internet, wie man Automatisierbare Scripts machen kann (60min)
+- [ ] Moodle Tests für morgen fertig machen (90min)
+- [ ] Ein Video hinzufügen + Menüleiste programmieren (90min)
+- [ ] In der Website mit Javascript anfagnen zu programmieren (60min)
+
+Gespräch Zusammenfassung: Ich muss unbedingt anfangen ambitioniert zu arbeiten und die Arbeitspakete umformulieren. Meine Arbeit muss professioneller aussehen und ich soll zusammengefasst besser arbeiten.
