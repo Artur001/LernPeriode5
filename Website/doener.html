@@ -6,10 +6,41 @@
     <link rel="stylesheet" href="website.css">
 </head>
 <body>
+    <nav>
+        <ul>
+            <li><a href="website.html">Home</a></li>
+            <li><a href="doener.html">Doener</a></li>
+            <li><a href="kontakt.html">Kontakt</a></li>
+        </ul>
+    </nav>
     <main>
-        <p>wsp</p>
+        <p>Leider kriegst du keinen Gratis Döner</p>
         <img src="oi.jpeg" alt="oi">
         <a href="website.html" class="button">bitches</a>
+        <video id="videoPlayer" controls width="640" height="360">
+            <source src="video.mp4" type="video/mp4">
+            Ihr Browser unterstützt das Video-Tag nicht.
+        </video>
+    
+        <script>
+            var videoPlayer = document.getElementById('videoPlayer');
+    
+            
+            function makeFullScreen() {
+                if (videoPlayer.requestFullscreen) {
+                    videoPlayer.requestFullscreen();
+                } else if (videoPlayer.mozRequestFullScreen) { 
+                    videoPlayer.mozRequestFullScreen();
+                } else if (videoPlayer.webkitRequestFullscreen) { 
+                    videoPlayer.webkitRequestFullscreen();
+                } else if (videoPlayer.msRequestFullscreen) { 
+                    videoPlayer.msRequestFullscreen();
+                }
+            }
+    
+        
+            videoPlayer.addEventListener('dblclick', makeFullScreen);
+        </script>
     </main>
 </body>
 </html>
