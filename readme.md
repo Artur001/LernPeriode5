@@ -31,3 +31,12 @@ Heute habe ich mit der Knopf funktion herumgespielt und ein Bild hinzugefügt al
 - [ ] In der Website mit Javascript anfagnen zu programmieren (60min)
 
 Gespräch Zusammenfassung: Ich muss unbedingt anfangen ambitioniert zu arbeiten und die Arbeitspakete umformulieren. Meine Arbeit muss professioneller aussehen und ich soll zusammengefasst besser arbeiten.
+
+Heute habe ich ein Gespräch mit Herrn Colic gehabt und mir wurde gesagt, ich solle ambitioniert arbeiten und mehr in meinem Arbeitstag hinzufügen. Ich habe auch noch das letzten Arbeitspaket abgeändert und so gut wie möglich probiert in meiner Website zu implementieren. Für das nächste Mal wurden die Punkte von Herr Colic notiert und hoffentlich richtig durchgezogen.
+
+## 14.5.2024
+
+- [ ] Eine Art Gücksrad auf JavaScript hinzufügen (60min)
+- [ ] Website besser gestalten und schöner und profesioneller aussehen lassen -> Hier gehört alles; Bilder, Schriftart, Text, usw. (60min)
+- [ ] Recherchieren was ein Framework macht und je nach dem anwenden (120min)
+      
