@@ -39,4 +39,5 @@ Heute habe ich ein Gespräch mit Herrn Colic gehabt und mir wurde gesagt, ich so
 - [ ] Eine Art Gücksrad auf JavaScript hinzufügen (60min)
 - [ ] Website besser gestalten und schöner und profesioneller aussehen lassen -> Hier gehört alles; Bilder, Schriftart, Text, usw. (60min)
 - [ ] Recherchieren was ein Framework macht und je nach dem anwenden (120min)
+- [ ] Get Cancelled Tycoon Ufo erreichen und fertig machen (60min)
       
